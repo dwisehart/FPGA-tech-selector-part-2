@@ -2,6 +2,8 @@
 
 LTSpice files for simulating a 1 of 8 selector using MOSFET transistors in CMOS pairs.
 
+These are the files for the article published on LinkedIn.  To get started, download and install the free LTSpice tool from Analog Devices.  Start that program and open LUT-STIM.asc.  Hit the 'run' icon in the upper left of the window.  Enjoy!
+
 
 <img title="" src="Screenshot-20.png">
 
